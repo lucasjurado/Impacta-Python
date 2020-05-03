@@ -1,3 +1,7 @@
+'''
+Pesa peixes e total a ser pago
+'''
+
 total = c = 0
 while True:
     peso = float(input('Digite o peso do peixe (kg): '))

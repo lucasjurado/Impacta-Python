@@ -1,3 +1,7 @@
+'''
+Desenvolver eixos das coordenadas.
+'''
+
 print('-----Cordenadas-----')
 x = float(input('Digite a coordenada do eixo X (0 - 10.0): '))
 y = float(input('Digite a coordenada do eixo Y (0 - 10.0): '))

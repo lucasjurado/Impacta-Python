@@ -3,10 +3,6 @@ s = input('Digite quadrado ou cubo: ')
 
 if s == 'quadrado':
     def f(x):
-        """
-        :param x: testeteste
-        :return: abcabc
-        """
         return x*x
 else:
     def f(x):
