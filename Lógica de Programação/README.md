@@ -10,11 +10,10 @@ a) Peça para o usuário digitar a quantidade de nomes que irá digitar e armaze
 
 b) Faça as seguintes implementações, nessa ordem:
 
-1º) Adiciona o nome "Teste" no índice 3. (estava escrito "posição").
+   - Adiciona o nome "Teste" no índice 3. (estava escrito "posição").
 
-2º) Exclua o elemento de índice 2.
+   - Exclua o elemento de índice 2.
 
-3º) Verifique quantas vezes você digitou o nome 'Ana'. Se for maior que 0, mostre o índice da primeira ocorrência.
-Se for 0, mostre uma frase informando que o nome Ana não existe na lista.
+   - Verifique quantas vezes você digitou o nome 'Ana'. Se for maior que 0, mostre o índice da primeira ocorrência. Se for 0, mostre uma frase informando que o nome Ana não existe na lista.
 
-4º) No final, mostre a lista ordenada.
+   - No final, mostre a lista ordenada.
