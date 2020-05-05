@@ -28,6 +28,13 @@
    1. ex04: **Impressão de tabuadas** [link](https://www.thehuxley.com/problem/1998?quizId=4996)
    1. ex05: **Contando ocorrências (função iterativa)** [link](https://www.thehuxley.com/problem/3219?quizId=4996)
    
+**Atividade Contínua 5**
+   1. ex01: **Desenvolvendo funções** [link](https://www.thehuxley.com/problem/2368?quizId=5025)
+   1. ex02: **Maior item de uma lista de compras** [link](https://www.thehuxley.com/problem/844?quizId=5025)
+   1. ex03: **Manipulando uma Lista de Inteiros** [link](https://www.thehuxley.com/problem/1284?quizId=5025)
+   1. ex04: **Lista de chamada** [link](https://www.thehuxley.com/problem/187?quizId=5025)
+   1. ex05: **Soma dos dígitos (função iterativa)** [link](https://www.thehuxley.com/problem/2254?quizId=5025)
+   
 ### Scripts desenvolvidos durante a disciplina de LP1
    1. LP1.ex001: **Eixos das coordenadas X Y**
    1. LP1.ex002: **Controle do Pesqueiro**
